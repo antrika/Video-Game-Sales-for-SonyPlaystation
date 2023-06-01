@@ -1,2 +1,2 @@
-# VIdeo-Game-Sales
+# Video-Game-Sales
 R-Studio Projects
