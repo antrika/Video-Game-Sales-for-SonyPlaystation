@@ -1,2 +1,2 @@
 # Video-Game-Sales
-R-Studio Projects
+Business Analytics with R
